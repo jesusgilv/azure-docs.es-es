@@ -89,7 +89,7 @@ Realice las siguientes tareas para preparar el entorno de VMware y físico local
 ## <a name="create-a-recovery-services-vault"></a>Creación de un almacén de Recovery Services
 
 1. Inicie sesión en [Azure Portal](https://portal.azure.com) > **Recovery Services**.
-2. Haga clic en **Crear un recurso** > **Supervisión y administración** > **Backup y Site Recovery**.
+2. Haga clic en **Crear un recurso** > **Herramientas de administración** > **Backup y Site Recovery**.
 3. En el apartado **Nombre**, especifique el nombre descriptivo **W2K8-migration**. Si tiene más de una suscripción, seleccione la apropiada.
 4. Cree un grupo de recursos **w2k8migrate**.
 5. Especifique una región de Azure. Para comprobar las regiones admitidas, consulte la disponibilidad geográfica en [Detalles de precios de Azure Site Recovery](https://azure.microsoft.com/pricing/details/site-recovery/).
