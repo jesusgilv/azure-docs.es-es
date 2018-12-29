@@ -68,7 +68,7 @@ Las imágenes de máquinas replicadas se conservan en Azure Storage. Las máquin
 
 ## <a name="create-a-recovery-services-vault"></a>Creación de un almacén de Recovery Services
 
-1. En Azure Portal, seleccione **Crear un recurso** > **Storage** > **Backup y Site Recovery (OMS)**.
+1. En Azure Portal, seleccione **Crear un recurso** > **Herramientas de administración** > **Backup y Site Recovery (OMS)**.
 2. En **Nombre**, escriba un nombre descriptivo para identificar el almacén. Para este conjunto de tutoriales se usa **ContosoVMVault**.
 3. En **Grupo de recursos**, se va a usar **contosoRG**.
 4. En **Ubicación**, se va a usar **Europa Occidental**.
